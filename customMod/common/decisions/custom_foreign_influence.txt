@@ -1,0 +1,15 @@
+foreign_influence = {
+	compliance_gain_dec = {
+		available = { 
+			any_owned_state = { has_resistance = yes }
+		}
+		cost = 25
+		modifier = {
+			political_power_gain = 0.5
+			political_power_factor = 0.15
+			compliance_gain = 0.5
+		}
+
+		days_remove = 120
+	}
+}

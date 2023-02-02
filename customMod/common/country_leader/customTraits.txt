@@ -1,0 +1,6 @@
+leader_traits = {
+	intelligence_custom_trait = {
+		operative_slot = 2
+		agency_upgrade_time = 0.2
+	}
+}

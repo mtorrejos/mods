@@ -1,0 +1,11 @@
+spy_upgrade_category = {
+	spy_upgrade = {
+		visible = { always = yes }
+		available = { has_intelligence_agency = yes }
+		complete_effect = {
+			add_ideas = spy_upgrade_idea
+		}
+		fire_only_once = yes
+		cost = 150
+	}
+}

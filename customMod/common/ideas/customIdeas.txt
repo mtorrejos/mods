@@ -1,0 +1,8 @@
+ideas = {
+	country = {
+		spy_upgrade_idea = {
+			picture = YUG_orthodox_church_support
+			modifier = { agency_upgrade_time = -0.2}
+		}
+	}
+}

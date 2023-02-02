@@ -1,0 +1,9 @@
+spy_upgrade_category = {
+	icon = generic_industry
+	visible = { always = yes }
+	#visible = { has_intelligence_agency = yes }
+}
+
+foreign_influence = {
+	visible = { always = yes }
+}
